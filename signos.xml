@@ -2,7 +2,7 @@
 <signos>
     <signo>
         <dtaInicio>03-21</dtaInicio>
-        <dtaFinal>04-21</dtaFinal>
+        <dtaFinal>04-20</dtaFinal>
         <descSigno>Áries</descSigno>
         <personalidade>
             Os Arianos costumam ser individualistas e espontâneos!
@@ -52,7 +52,7 @@
     </signo>
     <signo>
         <dtaInicio>06-21</dtaInicio>
-        <dtaFinal>07-20</dtaFinal>
+        <dtaFinal>07-22</dtaFinal>
         <descSigno>Câncer</descSigno>
         <personalidade>
             A principal marca dos Cancerianos é a sensibilidade e o carinho.
@@ -67,8 +67,8 @@
         <imagem>'images/cancer.png'</imagem>
     </signo>
     <signo>
-        <dtaInicio>07-21</dtaInicio>
-        <dtaFinal>08-20</dtaFinal>
+        <dtaInicio>07-23</dtaInicio>
+        <dtaFinal>08-22</dtaFinal>
         <descSigno>Leão</descSigno>
         <personalidade>
             Os Leoninos são vaidosos e confiantes.
@@ -83,8 +83,8 @@
         <imagem>'images/leao.png'</imagem>
     </signo>
     <signo>
-        <dtaInicio>08-21</dtaInicio>
-        <dtaFinal>09-20</dtaFinal>
+        <dtaInicio>08-23</dtaInicio>
+        <dtaFinal>09-22</dtaFinal>
         <descSigno>Virgem</descSigno>
         <personalidade>
             Organizados e analíticos: esses são os Virginianos.
@@ -98,8 +98,8 @@
         <imagem>'images/virgem.png'</imagem>
     </signo>
     <signo>
-        <dtaInicio>09-21</dtaInicio>
-        <dtaFinal>10-20</dtaFinal>
+        <dtaInicio>09-23</dtaInicio>
+        <dtaFinal>10-22</dtaFinal>
         <descSigno>Libra</descSigno>
         <personalidade>
             Clichê dizer, mas o equilíbrio e a justiça definem os Librianos.
@@ -113,8 +113,8 @@
         <imagem>'images/libra.png'</imagem>
     </signo>
     <signo>
-        <dtaInicio>10-21</dtaInicio>
-        <dtaFinal>11-20</dtaFinal>
+        <dtaInicio>10-23</dtaInicio>
+        <dtaFinal>11-21</dtaFinal>
         <descSigno>Escorpião</descSigno>
         <personalidade>
             Atraente e intenso: esse é o Escorpiano.
@@ -128,8 +128,8 @@
         <imagem>'images/escorpiao.png'</imagem>
     </signo>
     <signo>
-        <dtaInicio>11-21</dtaInicio>
-        <dtaFinal>12-20</dtaFinal>
+        <dtaInicio>11-22</dtaInicio>
+        <dtaFinal>12-21</dtaFinal>
         <descSigno>Sagitário</descSigno>
         <personalidade>
             Independência e liberdade marcam os Sagitarianos.
@@ -143,8 +143,8 @@
         <imagem>'images/sagitario.png'</imagem>
     </signo>
     <signo>
-        <dtaInicio>01-21</dtaInicio>
-        <dtaFinal>02-20</dtaFinal>
+        <dtaInicio>01-20</dtaInicio>
+        <dtaFinal>02-18</dtaFinal>
         <descSigno>Aquário</descSigno>
         <personalidade>
             Os Aquarianos são amantes dos desafios e da liberdade!
@@ -159,7 +159,7 @@
         <imagem>'images/aquario.png'</imagem>
     </signo>
     <signo>
-        <dtaInicio>02-21</dtaInicio>
+        <dtaInicio>02-19</dtaInicio>
         <dtaFinal>03-20</dtaFinal>
         <descSigno>Peixes</descSigno>
         <personalidade>
@@ -174,7 +174,7 @@
     </signo>
     <signo>
         <dtaInicio>01-01</dtaInicio>
-        <dtaFinal>01-20</dtaFinal>
+        <dtaFinal>01-19</dtaFinal>
         <descSigno>Capricórnio</descSigno>
         <personalidade>
             A responsabilidade é o ponto forte do Capricorniano.
@@ -189,7 +189,7 @@
 
     </signo>
     <signo>
-        <dtaInicio>12-21</dtaInicio>
+        <dtaInicio>12-22</dtaInicio>
         <dtaFinal>12-31</dtaFinal>
         <descSigno>Capricórnio</descSigno>
         <personalidade>
