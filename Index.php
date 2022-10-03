@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="pt-BR">
-
+<!--Projeto criado por José Gabriel de valença Silva, RA - 29027936 Desenvolvido no Visual Studio Code-->
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -50,5 +50,5 @@
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
 </body>
-
+<!--Projeto criado por José Gabriel de valença Silva, RA - 29027936 Desenvolvido no Visual Studio Code-->
 </html>
